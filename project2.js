@@ -1,3 +1,4 @@
+// sum of even Fibonacci numbers
 
 var a = 0;
 var b = 1;
