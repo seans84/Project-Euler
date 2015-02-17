@@ -6,7 +6,6 @@ function largestPrimeF(number) {
 	while (initialNum > divisor) {
 		if (initialNum % divisor === 0) {
 			initialNum = initialNum / divisor;
-			divisor = 2;
 		}
 		else {
 			divisor++;
